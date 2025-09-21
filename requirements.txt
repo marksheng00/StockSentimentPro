@@ -1,0 +1,7 @@
+praw
+pandas
+streamlit
+plotly
+requests
+python-dotenv
+yfinance
